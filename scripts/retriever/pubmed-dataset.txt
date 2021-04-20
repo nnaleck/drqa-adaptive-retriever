@@ -1,0 +1,730 @@
+{"question": "Do mitochondria play a role in remodelling lace plant leaves during programmed cell death?", "answer": ["yes"]}
+{"question": "Are the long-term results of the transanal pull-through equal to those of the transabdominal pull-through?", "answer": ["no"]}
+{"question": "Can tailored interventions increase mammography use among HMO women?", "answer": ["yes"]}
+{"question": "30-Day and 1-year mortality in emergency general surgery laparotomies: an area of concern and need for improvement?", "answer": ["maybe"]}
+{"question": "Is adjustment for reporting heterogeneity necessary in sleep disorders?", "answer": ["no"]}
+{"question": "Do mutations causing low HDL-C promote increased carotid intima-media thickness?", "answer": ["no"]}
+{"question": "A short stay or 23-hour ward in a general and academic children's hospital: are they effective?", "answer": ["yes"]}
+{"question": "Differentiation of nonalcoholic from alcoholic steatohepatitis: are routine laboratory markers useful?", "answer": ["yes"]}
+{"question": "Prompting Primary Care Providers about Increased Patient Risk As a Result of Family History: Does It Work?", "answer": ["no"]}
+{"question": "Do emergency ultrasound fellowship programs impact emergency medicine residents' ultrasound education?", "answer": ["yes"]}
+{"question": "Patient-Controlled Therapy of Breathlessness in Palliative Care: A New Therapeutic Concept for Opioid Administration?", "answer": ["yes"]}
+{"question": "Is there still a need for living-related liver transplantation in children?", "answer": ["yes"]}
+{"question": "Is there a model to teach and practice retroperitoneoscopic nephrectomy?", "answer": ["yes"]}
+{"question": "Cardiovascular risk in a rural adult West African population: is resting heart rate also relevant?", "answer": ["yes"]}
+{"question": "Israeli hospital preparedness for terrorism-related multiple casualty incidents: can the surge capacity and injury severity distribution be better predicted?", "answer": ["yes"]}
+{"question": "Acute respiratory distress syndrome in children with malignancy--can we predict outcome?", "answer": ["yes"]}
+{"question": "Secondhand smoke risk in infants discharged from an NICU: potential for significant health disparities?", "answer": ["yes"]}
+{"question": "Do nomograms designed to predict biochemical recurrence (BCR) do a better job of predicting more clinically relevant prostate cancer outcomes than BCR?", "answer": ["yes"]}
+{"question": "Are reports of mechanical dysfunction in chronic oro-facial pain related to somatisation?", "answer": ["yes"]}
+{"question": "Does HER2 immunoreactivity provide prognostic information in locally advanced urothelial carcinoma patients receiving adjuvant M-VEC chemotherapy?", "answer": ["maybe"]}
+{"question": "Visceral adipose tissue area measurement at a single level: can it represent visceral adipose tissue volume?", "answer": ["yes"]}
+{"question": "Is a mandatory general surgery rotation necessary in the surgical clerkship?", "answer": ["no"]}
+{"question": "Biomolecular identification of allergenic pollen: a new perspective for aerobiological monitoring?", "answer": ["yes"]}
+{"question": "Does diabetes mellitus influence the efficacy of FDG-PET in the diagnosis of cervical cancer?", "answer": ["no"]}
+{"question": "Does radiotherapy of the primary rectal cancer affect prognosis after pelvic exenteration for recurrent rectal cancer?", "answer": ["yes"]}
+{"question": "Can a practicing surgeon detect early lymphedema reliably?", "answer": ["maybe"]}
+{"question": "Colorectal cancer with synchronous liver metastases: does global management at the same centre improve results?", "answer": ["no"]}
+{"question": "Is motion perception deficit in schizophrenia a consequence of eye-tracking abnormality?", "answer": ["yes"]}
+{"question": "Is it appropriate to implant kidneys from elderly donors in young recipients?", "answer": ["yes"]}
+{"question": "Do provider service networks result in lower expenditures compared with HMOs or primary care case management in Florida's Medicaid program?", "answer": ["yes"]}
+{"question": "Assessment of carotid artery stenosis before coronary artery bypass surgery. Is it always necessary?", "answer": ["no"]}
+{"question": "Should direct mesocolon invasion be included in T4 for the staging of gastric cancer?", "answer": ["maybe"]}
+{"question": "Do Surrogates of Injury Severity Influence the Occurrence of Heterotopic Ossification in Fractures of the Acetabulum?", "answer": ["maybe"]}
+{"question": "Does pretreatment with statins improve clinical outcome after stroke?", "answer": ["no"]}
+{"question": "Is there a correlation between androgens and sexual desire in women?", "answer": ["yes"]}
+{"question": "Does immediate breast reconstruction compromise the delivery of adjuvant chemotherapy?", "answer": ["no"]}
+{"question": "Human papillomavirus and pterygium. Is the virus a risk factor?", "answer": ["maybe"]}
+{"question": "Can PRISM predict length of PICU stay?", "answer": ["no"]}
+{"question": "Can predilatation in transcatheter aortic valve implantation be omitted?", "answer": ["yes"]}
+{"question": "Major depression and alcohol use disorder in adolescence: Does comorbidity lead to poorer outcomes of depression?", "answer": ["no"]}
+{"question": "Cold preparation use in young children after FDA warnings: do concerns still exist?", "answer": ["yes"]}
+{"question": "Does a 4 diagram manual enable laypersons to operate the Laryngeal Mask Supreme\u00ae?", "answer": ["yes"]}
+{"question": "Can we measure mesopic pupil size with the cobalt blue light slit-lamp biomicroscopy method?", "answer": ["no"]}
+{"question": "Does a colonoscopy after acute diverticulitis affect its management?", "answer": ["no"]}
+{"question": "Do instrumental activities of daily living predict dementia at 1- and 2-year follow-up?", "answer": ["yes"]}
+{"question": "Is a specialised training of phonological awareness indicated in every preschool child?", "answer": ["maybe"]}
+{"question": "Assessing joint line positions by means of the contralateral knee: a new approach for planning knee revision surgery?", "answer": ["yes"]}
+{"question": "Does either obesity or OSA severity influence the response of autotitrating CPAP machines in very obese subjects?", "answer": ["yes"]}
+{"question": "Does the clinical presentation of a prior preterm birth predict risk in a subsequent pregnancy?", "answer": ["yes"]}
+{"question": "Is the Distance Worth It?", "answer": ["yes"]}
+{"question": "Does induction chemotherapy have a role in the management of nasopharyngeal carcinoma?", "answer": ["yes"]}
+{"question": "Are normally sighted, visually impaired, and blind pedestrians accurate and reliable at making street crossing decisions?", "answer": ["maybe"]}
+{"question": "Does multi-modal cervical physical therapy improve tinnitus in patients with cervicogenic somatic tinnitus?", "answer": ["yes"]}
+{"question": "Detailed analysis of sputum and systemic inflammation in asthma phenotypes: are paucigranulocytic asthmatics really non-inflammatory?", "answer": ["maybe"]}
+{"question": "Are even impaired fasting blood glucose levels preoperatively associated with increased mortality after CABG surgery?", "answer": ["yes"]}
+{"question": "Does positron emission tomography change management in primary rectal cancer?", "answer": ["yes"]}
+{"question": "Can you deliver accurate tidal volume by manual resuscitator?", "answer": ["no"]}
+{"question": "Can increases in the cigarette tax rate be linked to cigarette retail prices?", "answer": ["no"]}
+{"question": "Vertical lines in distal esophageal mucosa (VLEM): a true endoscopic manifestation of esophagitis in children?", "answer": ["yes"]}
+{"question": "Does the radiographic transition zone correlate with the level of aganglionosis on the specimen in Hirschsprung's disease?", "answer": ["no"]}
+{"question": "Is dexamethasone an effective alternative to oral prednisone in the treatment of pediatric asthma exacerbations?", "answer": ["yes"]}
+{"question": "Mammographic screening in Sami speaking municipalities and a control group. Are early outcome measures influenced by ethnicity?", "answer": ["yes"]}
+{"question": "Do Electrochemiluminescence Assays Improve Prediction of Time to Type 1 Diabetes in Autoantibody-Positive TrialNet Subjects?", "answer": ["yes"]}
+{"question": "Assessment of appropriate antimicrobial prescribing: do experts agree?", "answer": ["yes"]}
+{"question": "Is there a favorable subset of patients with prostate cancer who develop oligometastases?", "answer": ["yes"]}
+{"question": "Cycloplegic autorefraction in young adults: is it mandatory?", "answer": ["maybe"]}
+{"question": "Does screening or surveillance for primary hepatocellular carcinoma with ultrasonography improve the prognosis of patients?", "answer": ["yes"]}
+{"question": "Department of Transportation vs self-reported data on motor vehicle collisions and driving convictions for stroke survivors: do they agree?", "answer": ["no"]}
+{"question": "Neoadjuvant Imatinib in Locally Advanced Gastrointestinal stromal Tumours, Will Kit Mutation Analysis Be a Pathfinder?", "answer": ["yes"]}
+{"question": "Does the lipid-lowering peroxisome proliferator-activated receptors ligand bezafibrate prevent colon cancer in patients with coronary artery disease?", "answer": ["yes"]}
+{"question": "Does self-efficacy mediate the relationship between transformational leadership behaviours and healthcare workers' sleep quality?", "answer": ["maybe"]}
+{"question": "Does microbial contamination influence the success of the hematopoietic cell transplantation outcomes?", "answer": ["maybe"]}
+{"question": "Very high serum CA 19-9 levels: a contraindication to pancreaticoduodenectomy?", "answer": ["no"]}
+{"question": "Are physicians aware of the side effects of angiotensin-converting enzyme inhibitors?", "answer": ["no"]}
+{"question": "Residual fundus or neofundus after laparoscopic sleeve gastrectomy: is fundectomy safe and effective as revision surgery?", "answer": ["maybe"]}
+{"question": "Are physician estimates of asthma severity less accurate in black than in white patients?", "answer": ["yes"]}
+{"question": "Does laparoscopic surgery decrease the risk of atrial fibrillation after foregut surgery?", "answer": ["yes"]}
+{"question": "Do communication disorders extend to musical messages?", "answer": ["yes"]}
+{"question": "Do patients with rheumatoid arthritis established on methotrexate and folic acid 5 mg daily need to continue folic acid supplements long term?", "answer": ["yes"]}
+{"question": "Can infundibular height predict the clearance of lower pole calyceal stone after extracorporeal shockwave lithotripsy?", "answer": ["yes"]}
+{"question": "Does lung ischemia and reperfusion have an impact on coronary flow?", "answer": ["yes"]}
+{"question": "Transient tachypnea of the newborn (TTN): a role for polymorphisms in the beta-adrenergic receptor (ADRB) encoding genes?", "answer": ["yes"]}
+{"question": "Is duration of psychological treatment for depression related to return into treatment?", "answer": ["yes"]}
+{"question": "Does shaving the incision site increase the infection rate after spinal surgery?", "answer": ["maybe"]}
+{"question": "Do French lay people and health professionals find it acceptable to breach confidentiality to protect a patient's wife from a sexually transmitted disease?", "answer": ["maybe"]}
+{"question": "Do somatic complaints predict subsequent symptoms of depression?", "answer": ["maybe"]}
+{"question": "Are women with major depression in pregnancy identifiable in population health data?", "answer": ["no"]}
+{"question": "Does combining antiretroviral agents in a single dosage form enhance quality of life of HIV/AIDS patients?", "answer": ["no"]}
+{"question": "Identification of racial disparities in breast cancer mortality: does scale matter?", "answer": ["yes"]}
+{"question": "Could different follow-up modalities play a role in the diagnosis of asymptomatic endometrial cancer relapses?", "answer": ["maybe"]}
+{"question": "Locoregional opening of the rodent blood-brain barrier for paclitaxel using Nd:YAG laser-induced thermo therapy: a new concept of adjuvant glioma therapy?", "answer": ["yes"]}
+{"question": "Preoperative tracheobronchoscopy in newborns with esophageal atresia: does it matter?", "answer": ["yes"]}
+{"question": "Is horizontal semicircular canal ocular reflex influenced by otolith organs input?", "answer": ["yes"]}
+{"question": "Serovar specific immunity to Neisseria gonorrhoeae: does it exist?", "answer": ["no"]}
+{"question": "May student examiners be reasonable substitute examiners for faculty in an undergraduate OSCE on medical emergencies?", "answer": ["yes"]}
+{"question": "Do healthier lifestyles lead to less utilization of healthcare resources?", "answer": ["no"]}
+{"question": "Do all ethnic groups in New Zealand exhibit socio-economic mortality gradients?", "answer": ["yes"]}
+{"question": "Can normal knee kinematics be restored with unicompartmental knee replacement?", "answer": ["no"]}
+{"question": "Is fetal gender associated with emergency department visits for asthma during pregnancy?", "answer": ["no"]}
+{"question": "Are adult body circumferences associated with height?", "answer": ["yes"]}
+{"question": "Would corrected QT dispersion predict left ventricular hypertrophy in hypertensive patients?", "answer": ["yes"]}
+{"question": "Inpatient versus outpatient management of neutropenic fever in gynecologic oncology patients: is risk stratification useful?", "answer": ["yes"]}
+{"question": "Can bisphosphonate treatment be stopped in a growing child with skeletal fragility?", "answer": ["maybe"]}
+{"question": "Regional anesthesia as compared with general anesthesia for surgery in geriatric patients with hip fracture: does it decrease morbidity, mortality, and health care costs?", "answer": ["no"]}
+{"question": "Does blood pressure change in treated hypertensive patients depending on whether it is measured by a physician or a nurse?", "answer": ["yes"]}
+{"question": "Treadmill testing of children who have spina bifida and are ambulatory: does peak oxygen uptake reflect maximum oxygen uptake?", "answer": ["yes"]}
+{"question": "Is the probability of prenatal diagnosis or termination of pregnancy different for fetuses with congenital anomalies conceived following assisted reproductive techniques?", "answer": ["no"]}
+{"question": "Is there a relationship between complex fractionated atrial electrograms recorded during atrial fibrillation and sinus rhythm fractionation?", "answer": ["no"]}
+{"question": "Does rural or urban residence make a difference to neonatal outcome in premature birth?", "answer": ["yes"]}
+{"question": "Is the use of cyanoacrylate in intestinal anastomosis a good and reliable alternative?", "answer": ["yes"]}
+{"question": "Is trabecular bone related to primary stability of miniscrews?", "answer": ["yes"]}
+{"question": "Is there any evidence of a \"July effect\" in patients undergoing major cancer surgery?", "answer": ["no"]}
+{"question": "Is it necessary to insert a nasobiliary drainage tube routinely after endoscopic clearance of the common bile duct in patients with choledocholithiasis-induced cholangitis?", "answer": ["no"]}
+{"question": "Storage of vaccines in the community: weak link in the cold chain?", "answer": ["maybe"]}
+{"question": "Is the clinically positive axilla in breast cancer really a contraindication to sentinel lymph node biopsy?", "answer": ["no"]}
+{"question": "Are patients willing participants in the new wave of community-based medical education in regional and rural Australia?", "answer": ["yes"]}
+{"question": "Quality of life in lung cancer patients: does socioeconomic status matter?", "answer": ["yes"]}
+{"question": "Are Biochemical Markers of Bone Turnover Representative of Bone Histomorphometry in 370 Postmenopausal Women?", "answer": ["maybe"]}
+{"question": "Should early extubation be the goal for children after congenital cardiac surgery?", "answer": ["yes"]}
+{"question": "Does delivery mode affect women's postpartum quality of life in rural China?", "answer": ["no"]}
+{"question": "Menopausal hormone therapy and irregular endometrial bleeding: a potential role for uterine natural killer cells?", "answer": ["yes"]}
+{"question": "Can the growth rate of a gallbladder polyp predict a neoplastic polyp?", "answer": ["no"]}
+{"question": "Are performance measurement systems useful?", "answer": ["yes"]}
+{"question": "Does insulin resistance drive the association between hyperglycemia and cardiovascular risk?", "answer": ["yes"]}
+{"question": "Are there risk factors that increase the rate of staple line leakage in patients undergoing primary sleeve gastrectomy for morbid obesity?", "answer": ["yes"]}
+{"question": "Actinobaculum schaalii, a cause of urinary tract infections in children?", "answer": ["maybe"]}
+{"question": "Prevalence of chronic conditions among Medicare Part A beneficiaries in 2008 and 2010: are Medicare beneficiaries getting sicker?", "answer": ["yes"]}
+{"question": "Do patients with localized prostate cancer treatment really want more aggressive treatment?", "answer": ["no"]}
+{"question": "Does music influence stress in mechanically ventilated patients?", "answer": ["no"]}
+{"question": "Does reducing spasticity translate into functional benefit?", "answer": ["yes"]}
+{"question": "Should general practitioners call patients by their first names?", "answer": ["yes"]}
+{"question": "Transesophageal echocardiographic assessment of left ventricular function in brain-dead patients: are marginally acceptable hearts suitable for transplantation?", "answer": ["yes"]}
+{"question": "Does the National Institutes of Health Stroke Scale favor left hemisphere strokes?", "answer": ["yes"]}
+{"question": "Can a Novel Surgical Approach to the Temporomandibular Joint Improve Access and Reduce Complications?", "answer": ["yes"]}
+{"question": "Young-Burgess classification of pelvic ring fractures: does it predict mortality, transfusion requirements, and non-orthopaedic injuries?", "answer": ["maybe"]}
+{"question": "Is vitamin D deficiency a feature of pediatric celiac disease?", "answer": ["no"]}
+{"question": "Is unsafe sexual behaviour increasing among HIV-infected individuals?", "answer": ["no"]}
+{"question": "Cholestasis associated with small bowel atresia: do we always need to investigate?", "answer": ["no"]}
+{"question": "Are financial incentives cost-effective to support smoking cessation during pregnancy?", "answer": ["yes"]}
+{"question": "Can medical students contribute to quality assurance programmes in day surgery?", "answer": ["yes"]}
+{"question": "Three-dimensional ultrasound-validated large-core needle biopsy: is it a reliable method for the histological assessment of breast lesions?", "answer": ["yes"]}
+{"question": "Can bone thickness and inter-radicular space affect miniscrew placement in posterior mandibular sites?", "answer": ["no"]}
+{"question": "Do general practice selection scores predict success at MRCGP?", "answer": ["yes"]}
+{"question": "Does age moderate the effect of personality disorder on coping style in psychiatric inpatients?", "answer": ["yes"]}
+{"question": "Autoxidation products of both carbohydrates and lipids are increased in uremic plasma: is there oxidative stress in uremia?", "answer": ["yes"]}
+{"question": "Quaternary cytoreductive surgery in ovarian cancer: does surgical effort still matter?", "answer": ["yes"]}
+{"question": "Chemotherapy and survival in advanced non-small cell lung carcinoma: is pneumologists' skepticism justified?", "answer": ["no"]}
+{"question": "Does topical ropivacaine reduce the post-tonsillectomy morbidity in pediatric patients?", "answer": ["yes"]}
+{"question": "Does the use of atypical antipsychotics as adjunctive therapy in depression result in cost savings?", "answer": ["no"]}
+{"question": "Can patients be anticoagulated after intracerebral hemorrhage?", "answer": ["maybe"]}
+{"question": "Does managed care enable more low income persons to identify a usual source of care?", "answer": ["maybe"]}
+{"question": "Knee extensor strength, dynamic stability, and functional ambulation: are they related in Parkinson's disease?", "answer": ["yes"]}
+{"question": "Is distance to provider a barrier to care for medicaid patients with breast, colorectal, or lung cancer?", "answer": ["no"]}
+{"question": "Can folic acid protect against congenital heart defects in Down syndrome?", "answer": ["no"]}
+{"question": "Are there mental health differences between francophone and non-francophone populations in manitoba?", "answer": ["maybe"]}
+{"question": "Does type 1 diabetes mellitus affect Achilles tendon response to a 10\u00a0km run?", "answer": ["no"]}
+{"question": "Fragility of the esophageal mucosa: a pathognomonic endoscopic sign of primary eosinophilic esophagitis?", "answer": ["yes"]}
+{"question": "Does cup-cage reconstruction with oversized cups provide initial stability in THA for osteoporotic acetabular fractures?", "answer": ["yes"]}
+{"question": "Pulmonary valve replacement in adults late after repair of tetralogy of fallot: are we operating too late?", "answer": ["yes"]}
+{"question": "Does TDP-43 type confer a distinct pattern of atrophy in frontotemporal lobar degeneration?", "answer": ["yes"]}
+{"question": "Is oncoplastic surgery a contraindication for accelerated partial breast radiation using the interstitial multicatheter brachytherapy method?", "answer": ["maybe"]}
+{"question": "Estimation of basal metabolic rate in Chinese: are the current prediction equations applicable?", "answer": ["yes"]}
+{"question": "Does rugby headgear prevent concussion?", "answer": ["maybe"]}
+{"question": "Can shape analysis differentiate free-floating internal carotid artery thrombus from atherosclerotic plaque in patients evaluated with CTA for stroke or transient ischemic attack?", "answer": ["yes"]}
+{"question": "Dementia and aphasia in motor neuron disease: an underrecognised association?", "answer": ["yes"]}
+{"question": "Does solid culture for tuberculosis influence clinical decision making in India?", "answer": ["maybe"]}
+{"question": "Diffusion-weighted echo-planar MR imaging of primary parotid gland tumors: is a prediction of different histologic subtypes possible?", "answer": ["yes"]}
+{"question": "Is there a role for endothelin-1 in the hemodynamic changes during hemodialysis?", "answer": ["maybe"]}
+{"question": "Do risk factors for suicidal behavior differ by affective disorder polarity?", "answer": ["no"]}
+{"question": "Is the international normalised ratio (INR) reliable?", "answer": ["maybe"]}
+{"question": "Is zero central line-associated bloodstream infection rate sustainable?", "answer": ["yes"]}
+{"question": "Is gastric electrical stimulation superior to standard pharmacologic therapy in improving GI symptoms, healthcare resources, and long-term health care benefits?", "answer": ["yes"]}
+{"question": "Should pulp chamber pulpotomy be seen as a permanent treatment?", "answer": ["no"]}
+{"question": "Does transverse apex coincide with coronal apex levels (regional or global) in adolescent idiopathic scoliosis?", "answer": ["no"]}
+{"question": "Does the Child Health Computing System adequately identify children with cerebral palsy?", "answer": ["no"]}
+{"question": "Are we seeing the effects of public awareness campaigns?", "answer": ["maybe"]}
+{"question": "Is breast cancer prognosis inherited?", "answer": ["yes"]}
+{"question": "Does nuchal translucency thickness in the first trimester predict GDM onset during pregnancy?", "answer": ["no"]}
+{"question": "Are the arginine vasopressin V1a receptor microsatellites related to hypersexuality in children with a prepubertal and early adolescent bipolar disorder phenotype?", "answer": ["no"]}
+{"question": "Stage I non-small cell lung carcinoma: really an early stage?", "answer": ["no"]}
+{"question": "Does Residency Selection Criteria Predict Performance in Orthopaedic Surgery Residency?", "answer": ["yes"]}
+{"question": "Is it better to be big?", "answer": ["no"]}
+{"question": "Is arch form influenced by sagittal molar relationship or Bolton tooth-size discrepancy?", "answer": ["no"]}
+{"question": "Are pectins involved in cold acclimation and de-acclimation of winter oil-seed rape plants?", "answer": ["yes"]}
+{"question": "Updating emotional content in working memory: a depression-specific deficit?", "answer": ["yes"]}
+{"question": "Does ultrasound imaging before puncture facilitate internal jugular vein cannulation?", "answer": ["maybe"]}
+{"question": "Should prostate specific antigen be adjusted for body mass index?", "answer": ["no"]}
+{"question": "Does obstructive sleep apnea affect aerobic fitness?", "answer": ["maybe"]}
+{"question": "The effect of an intracerebroventricular injection of metformin or AICAR on the plasma concentrations of melatonin in the ewe: potential involvement of AMPK?", "answer": ["yes"]}
+{"question": "Characterization of the gender dimorphism after injury and hemorrhagic shock: are hormonal differences responsible?", "answer": ["no"]}
+{"question": "Delays in time to primary treatment after a diagnosis of breast cancer: does it impact survival?", "answer": ["no"]}
+{"question": "Are increased carotid artery pulsatility and resistance indexes early signs of vascular abnormalities in young obese males?", "answer": ["yes"]}
+{"question": "Are acceptance rates of a national preventive home visit programme for older people socially imbalanced?", "answer": ["yes"]}
+{"question": "In vivo visualization of pyloric mucosal hypertrophy in infants with hypertrophic pyloric stenosis: is there an etiologic role?", "answer": ["yes"]}
+{"question": "Does the early adopter of drugs exist?", "answer": ["no"]}
+{"question": "Does high blood pressure reduce the risk of chronic low back pain?", "answer": ["yes"]}
+{"question": "Does responsibility affect the public's valuation of health care interventions?", "answer": ["maybe"]}
+{"question": "Do improvements in outreach, clinical, and family and community-based services predict improvements in child survival?", "answer": ["yes"]}
+{"question": "Gluten tolerance in adult patients with celiac disease 20 years after diagnosis?", "answer": ["maybe"]}
+{"question": "Do symptoms predict COPD in smokers?", "answer": ["no"]}
+{"question": "Search engine as a diagnostic tool in difficult immunological and allergologic cases: is Google useful?", "answer": ["yes"]}
+{"question": "Uniformity of evidence-based treatments in practice?", "answer": ["yes"]}
+{"question": "Vaginal dose assessment in image-guided brachytherapy for cervical cancer: Can we really rely on dose-point evaluation?", "answer": ["maybe"]}
+{"question": "Prescriptions as a proxy for asthma in children: a good choice?", "answer": ["no"]}
+{"question": "Does the familial transmission of drinking patterns persist into young adulthood?", "answer": ["maybe"]}
+{"question": "Can mental imagery functional magnetic resonance imaging predict recovery in patients with disorders of consciousness?", "answer": ["yes"]}
+{"question": "Is cardiovascular evaluation necessary prior to and during beta-blocker therapy for infantile hemangiomas?", "answer": ["no"]}
+{"question": "Is specialty care associated with improved survival of patients with congestive heart failure?", "answer": ["yes"]}
+{"question": "Can the prognosis of polymyalgia rheumatica be predicted at disease onset?", "answer": ["yes"]}
+{"question": "Could the extent of lymphadenectomy be modified by neoadjuvant chemotherapy in cervical cancer?", "answer": ["no"]}
+{"question": "Do Wound Cultures Give Information About the Microbiology of Blood Cultures in Severe Burn Patients?", "answer": ["yes"]}
+{"question": "Are behavioural risk factors to be blamed for the conversion from optimal blood pressure to hypertensive status in Black South Africans?", "answer": ["yes"]}
+{"question": "Systematic use of patient-rated depression severity monitoring: is it helpful and feasible in clinical psychiatry?", "answer": ["yes"]}
+{"question": "Does lunar position influence the time of delivery?", "answer": ["yes"]}
+{"question": "Is oral endotracheal intubation efficacy impaired in the helicopter environment?", "answer": ["yes"]}
+{"question": "Telemedicine and type 1 diabetes: is technology per se sufficient to improve glycaemic control?", "answer": ["yes"]}
+{"question": "Is controlled ovarian stimulation in intrauterine insemination an acceptable therapy in couples with unexplained non-conception in the perspective of multiple pregnancies?", "answer": ["no"]}
+{"question": "Is half-dose contrast-enhanced three-dimensional MR angiography sufficient for the abdominal aorta and pelvis?", "answer": ["yes"]}
+{"question": "Are hepatitis G virus and TT virus involved in cryptogenic chronic liver disease?", "answer": ["no"]}
+{"question": "Do older patients who refuse to participate in a self-management intervention in the Netherlands differ from older patients who agree to participate?", "answer": ["yes"]}
+{"question": "Preoperative locoregional staging of gastric cancer: is there a place for magnetic resonance imaging?", "answer": ["no"]}
+{"question": "Do familiar teammates request and accept more backup?", "answer": ["yes"]}
+{"question": "Transsphenoidal pituitary surgery in Cushing's disease: can we predict outcome?", "answer": ["yes"]}
+{"question": "Can bedside assessment reliably exclude aspiration following acute stroke?", "answer": ["no"]}
+{"question": "Are UK radiologists satisfied with the training and support received in suspected child abuse?", "answer": ["no"]}
+{"question": "Can the condition of the cell microenvironment of mediastinal lymph nodes help predict the risk of metastases in non-small cell lung cancer?", "answer": ["yes"]}
+{"question": "Are wandering and physically nonaggressive agitation equivalent?", "answer": ["no"]}
+{"question": "Is size-reducing ascending aortoplasty with external reinforcement an option in modern aortic surgery?", "answer": ["yes"]}
+{"question": "Does depression diagnosis and antidepressant prescribing vary by location?", "answer": ["yes"]}
+{"question": "Can routinely collected ambulance data about assaults contribute to reduction in community violence?", "answer": ["maybe"]}
+{"question": "Volume change of uterine myomas during pregnancy: do myomas really grow?", "answer": ["no"]}
+{"question": "Is laparoscopic adrenalectomy safe and effective for adrenal masses larger than 7 cm?", "answer": ["yes"]}
+{"question": "Will CT ordering practices change if we educate residents about the potential effects of radiation exposure?", "answer": ["no"]}
+{"question": "Does context matter for the relationship between deprivation and all-cause mortality?", "answer": ["no"]}
+{"question": "Does stress increase imitation of drinking behavior?", "answer": ["no"]}
+{"question": "School food policy at Dutch primary schools: room for improvement?", "answer": ["yes"]}
+{"question": "Is the atopy patch test with house dust mites specific for atopic dermatitis?", "answer": ["yes"]}
+{"question": "Do preoperative statins reduce atrial fibrillation after coronary artery bypass grafting?", "answer": ["yes"]}
+{"question": "Is there a uniform basal endometrial gene expression profile during the implantation window in women who became pregnant in a subsequent ICSI cycle?", "answer": ["maybe"]}
+{"question": "Can decisional algorithms replace global introspection in the individual causality assessment of spontaneously reported ADRs?", "answer": ["no"]}
+{"question": "Does timing of initial surfactant treatment make a difference in rates of chronic lung disease or mortality in premature infants?", "answer": ["maybe"]}
+{"question": "Clinician assessment for acute chest syndrome in febrile patients with sickle cell disease: is it accurate enough?", "answer": ["no"]}
+{"question": "Outcome Feedback within Emergency Medicine Training Programs: An Opportunity to Apply the Theory of Deliberate Practice?", "answer": ["maybe"]}
+{"question": "Can multiple SNP testing in BRCA2 and BRCA1 female carriers be used to improve risk prediction models in conjunction with clinical assessment?", "answer": ["no"]}
+{"question": "Does a special interest in laparoscopy affect the treatment of acute cholecystitis?", "answer": ["yes"]}
+{"question": "Can progression of valvar aortic stenosis be predicted accurately?", "answer": ["yes"]}
+{"question": "Does automatic transmission improve driving behavior in older drivers?", "answer": ["yes"]}
+{"question": "Birth characteristics and risk of low intellectual performance in early adulthood: are the associations confounded by socioeconomic factors in adolescence or familial effects?", "answer": ["no"]}
+{"question": "Is scintigraphy a guideline method in determining amputation levels in diabetic foot?", "answer": ["yes"]}
+{"question": "Is determination between complete and incomplete traumatic spinal cord injury clinically relevant?", "answer": ["maybe"]}
+{"question": "Improvements in survival of gynaecological cancer in the Anglia region of England: are these an effect of centralisation of care and use of multidisciplinary management?", "answer": ["yes"]}
+{"question": "Do symptoms matter when considering patients for phase I clinical trials?", "answer": ["yes"]}
+{"question": "Is vitamin D insufficiency or deficiency related to the development of osteochondritis dissecans?", "answer": ["maybe"]}
+{"question": "Do episodic migraineurs selectively attend to headache-related visual stimuli?", "answer": ["no"]}
+{"question": "Mitral replacement or repair for functional mitral regurgitation in dilated and ischemic cardiomyopathy: is it really the same?", "answer": ["no"]}
+{"question": "Is cholecystectomy really an indication for concomitant splenectomy in mild hereditary spherocytosis?", "answer": ["no"]}
+{"question": "Does surgery or radiation therapy impact survival for patients with extrapulmonary small cell cancers?", "answer": ["yes"]}
+{"question": "MR Diagnosis of Bone Metastases at 1.5 T and 3 T: Can STIR Imaging Be Omitted?", "answer": ["yes"]}
+{"question": "Histologic evaluation of the testicular remnant associated with the vanishing testes syndrome: is surgical management necessary?", "answer": ["yes"]}
+{"question": "Does pain intensity predict a poor opioid response in cancer patients?", "answer": ["no"]}
+{"question": "Do prerecorded lecture VODcasts affect lecture attendance of first-yearpre-clinical Graduate Entry to Medicine students?", "answer": ["no"]}
+{"question": "Is there an intrauterine influence on obesity?", "answer": ["no"]}
+{"question": "Assessing Patient Reported Outcomes Measures via Phone Interviews Versus Patient Self-Survey in the Clinic: Are We Measuring the Same Thing?", "answer": ["yes"]}
+{"question": "Is cytokeratin immunoreactivity useful in the diagnosis of short-segment Barrett's oesophagus in Korea?", "answer": ["yes"]}
+{"question": "Is routine dissection of the station 9 lymph nodes really necessary for primary lung cancer?", "answer": ["no"]}
+{"question": "Cutaneous melanoma in a multiethnic population: is this a different disease?", "answer": ["maybe"]}
+{"question": "Marital status, living arrangement and mortality: does the association vary by gender?", "answer": ["yes"]}
+{"question": "Does somatostatin confer insulinostatic effects of neuromedin u in the rat pancreas?", "answer": ["yes"]}
+{"question": "Application of computer-aided diagnosis (CAD) in MR-mammography (MRM): do we really need whole lesion time curve distribution analysis?", "answer": ["no"]}
+{"question": "Can third trimester ultrasound predict the presentation of the first twin at delivery?", "answer": ["yes"]}
+{"question": "Risk factors for major depression during midlife among a community sample of women with and without prior major depression: are they the same or different?", "answer": ["no"]}
+{"question": "Totally implantable venous access device placement by interventional radiologists: are prophylactic antibiotics necessary?", "answer": ["no"]}
+{"question": "Clinical identifiers for early-stage primary/idiopathic adhesive capsulitis: are we seeing the real picture?", "answer": ["no"]}
+{"question": "Does delaying surgery in immature adolescent idiopathic scoliosis patients with progressive curve, lead to addition of fusion levels?", "answer": ["yes"]}
+{"question": "Bactericidal activity of 3 cutaneous/mucosal antiseptic solutions in the presence of interfering substances: Improvement of the NF EN 13727 European Standard?", "answer": ["maybe"]}
+{"question": "Empiric treatment of uncomplicated urinary tract infection with fluoroquinolones in older women in Israel: another lost treatment option?", "answer": ["maybe"]}
+{"question": "Do risk calculators accurately predict surgical site\u00a0occurrences?", "answer": ["no"]}
+{"question": "Can EMS Providers Provide Appropriate Tidal Volumes in a Simulated Adult-sized Patient with a Pediatric-sized Bag-Valve-Mask?", "answer": ["yes"]}
+{"question": "Can surgeon familiarization with current evidence lead to a change in practice?", "answer": ["no"]}
+{"question": "Validation of the 2009 TNM version in a large multi-institutional cohort of patients treated for renal cell carcinoma: are further improvements needed?", "answer": ["yes"]}
+{"question": "Are interstitial fluid concentrations of meropenem equivalent to plasma concentrations in critically ill patients receiving continuous renal replacement therapy?", "answer": ["no"]}
+{"question": "Does Sensation Return to the Nasal Tip After Microfat Grafting?", "answer": ["yes"]}
+{"question": "Do older men benefit from curative therapy of localized prostate cancer?", "answer": ["yes"]}
+{"question": "Do African American women require fewer calories to maintain weight?", "answer": ["no"]}
+{"question": "Emergency double-balloon enteroscopy combined with real-time viewing of capsule endoscopy: a feasible combined approach in acute overt-obscure gastrointestinal bleeding?", "answer": ["yes"]}
+{"question": "Cardiopulmonary bypass temperature does not affect postoperative euthyroid sick syndrome?", "answer": ["no"]}
+{"question": "Does receipt of hospice care in nursing homes improve the management of pain at the end of life?", "answer": ["yes"]}
+{"question": "Does binge drinking during early pregnancy increase the risk of psychomotor deficits?", "answer": ["no"]}
+{"question": "Does tranexamic acid reduce desmopressin-induced hyperfibrinolysis?", "answer": ["yes"]}
+{"question": "Does ultrasound-scored synovitis depend on the pharmacokinetics of subcutaneous anti-TNF agents in patients with rheumatoid arthritis?", "answer": ["no"]}
+{"question": "Counter sampling combined with medical provider education: do they alter prescribing behavior?", "answer": ["maybe"]}
+{"question": "Failed IUD insertions in community practice: an under-recognized problem?", "answer": ["yes"]}
+{"question": "Type II supracondylar humerus fractures: can some be treated nonoperatively?", "answer": ["yes"]}
+{"question": "The promise of specialty pharmaceuticals: are they worth the price?", "answer": ["yes"]}
+{"question": "Does invasive diagnosis of nosocomial pneumonia during off-hours delay treatment?", "answer": ["no"]}
+{"question": "Evaluation of pediatric VCUG at an academic children's hospital: is the radiographic scout image necessary?", "answer": ["no"]}
+{"question": "Are endometrial polyps from pre-menopausal women similar to post-menopausal women?", "answer": ["no"]}
+{"question": "The Prevalence of Incidentally Detected Idiopathic Misty Mesentery on\u00a0Multidetector Computed Tomography: Can Obesity Be the Triggering Cause?", "answer": ["yes"]}
+{"question": "Are pediatric concussion patients compliant with discharge instructions?", "answer": ["yes"]}
+{"question": "Treatment as prevention in resource-limited settings: is it feasible to maintain HIV viral load suppression over time?", "answer": ["yes"]}
+{"question": "Are octogenarians at high risk for carotid endarterectomy?", "answer": ["no"]}
+{"question": "Has the mammography quality standards act affected the mammography quality in North Carolina?", "answer": ["yes"]}
+{"question": "Do hospitals provide lower quality care on weekends?", "answer": ["yes"]}
+{"question": "Screening History Among Women with Invasive Cervical Cancer in an Academic Medical Center: Will We Miss Cancers Following Updated Guidelines?", "answer": ["no"]}
+{"question": "Does a dedicated discharge coordinator improve the quality of hospital discharge?", "answer": ["yes"]}
+{"question": "Can dobutamine stress echocardiography induce cardiac troponin elevation?", "answer": ["no"]}
+{"question": "Are laboratories reporting serum quantitative hCG results correctly?", "answer": ["no"]}
+{"question": "Steroids in aminoglycoside-containing ear drops: do they reduce cochlear toxicity?", "answer": ["yes"]}
+{"question": "Does having a regular primary care clinician improve quality of preventive care for young children?", "answer": ["yes"]}
+{"question": "Does performance in selection processes predict performance as a dental student?", "answer": ["no"]}
+{"question": "Is an advance care planning model feasible in community palliative care?", "answer": ["yes"]}
+{"question": "Do preoperative serum C-reactive protein levels predict the definitive pathological stage in patients with clinically localized prostate cancer?", "answer": ["no"]}
+{"question": "Sub-classification of low-grade cerebellar astrocytoma: is it clinically meaningful?", "answer": ["no"]}
+{"question": "Is intraoperative neuromonitoring associated with better functional outcome in patients undergoing open TME?", "answer": ["yes"]}
+{"question": "Can we predict which head and neck cancer survivors develop fears of recurrence?", "answer": ["yes"]}
+{"question": "Chemoradiotherapy in the management of locally advanced squamous cell carcinoma esophagus: is surgical resection required?", "answer": ["no"]}
+{"question": "Does quantitative left ventricular regional wall motion change after fibrous tissue resection in endomyocardial fibrosis?", "answer": ["no"]}
+{"question": "Is patient outcome compromised during the initial experience with robot-assisted radical cystectomy?", "answer": ["no"]}
+{"question": "Comparing femoral version after intramedullary nailing performed by trauma-trained and non-trauma trained surgeons: is there a difference?", "answer": ["no"]}
+{"question": "Does Viral Co-Infection Influence the Severity of Acute Respiratory Infection in Children?", "answer": ["no"]}
+{"question": "Will clinical studies elucidate the connection between the length of storage of transfused red blood cells and clinical outcomes?", "answer": ["no"]}
+{"question": "Cardiogenic shock complicating acute myocardial infarction in elderly patients: does admission to a tertiary center improve survival?", "answer": ["no"]}
+{"question": "Learning needs of postpartum women: does socioeconomic status matter?", "answer": ["yes"]}
+{"question": "Pitfalls in urinary stone identification using CT attenuation values: are we getting the same information on different scanner models?", "answer": ["no"]}
+{"question": "Immunohistochemical assessment of steroid hormone receptors in tissues of the anal canal. Implications for anal incontinence?", "answer": ["yes"]}
+{"question": "Is acute fibrinous and organizing pneumonia the expression of immune dysregulation?", "answer": ["yes"]}
+{"question": "Hypotension in patients with coronary disease: can profound hypotensive events cause myocardial ischaemic events?", "answer": ["yes"]}
+{"question": "Do inhaled corticosteroids affect perception of dyspnea during bronchoconstriction in asthma?", "answer": ["yes"]}
+{"question": "Is routine chest radiography after transbronchial biopsy necessary?", "answer": ["no"]}
+{"question": "Is it safe to perform rectal anastomosis in gynaecological debulking surgery without a diverting stoma?", "answer": ["yes"]}
+{"question": "Does angiotensin-converting enzyme-1 (ACE-1) gene polymorphism lead to chronic kidney disease among hypertensive patients?", "answer": ["yes"]}
+{"question": "Does laparoscopic antireflux surgery improve quality of life in patients whose gastro-oesophageal reflux disease is well controlled with medical therapy?", "answer": ["yes"]}
+{"question": "Can biofeedback training of psychophysiological responses enhance athletes' sport performance?", "answer": ["yes"]}
+{"question": "Do cytokines have any role in epilepsy?", "answer": ["yes"]}
+{"question": "Can routine offering of influenza vaccination in office-based settings reduce racial and ethnic disparities in adult influenza vaccination?", "answer": ["yes"]}
+{"question": "Colorectal cancer in young patients: is it a distinct clinical entity?", "answer": ["yes"]}
+{"question": "Can implant retention be recommended for treatment of infected TKA?", "answer": ["maybe"]}
+{"question": "Long-term significance of postictal psychotic episodes II. Are they predictive of interictal psychotic episodes?", "answer": ["yes"]}
+{"question": "Chronic progressive cervical myelopathy with HTLV-I infection: Variant form of HAM/TSP?", "answer": ["yes"]}
+{"question": "Gender difference in survival of resected non-small cell lung cancer: histology-related phenomenon?", "answer": ["yes"]}
+{"question": "Is obesity a risk factor for wheezing among adolescents?", "answer": ["yes"]}
+{"question": "Is CA72-4 a useful biomarker in differential diagnosis between ovarian endometrioma and epithelial ovarian cancer?", "answer": ["yes"]}
+{"question": "Preservation of the PCL when performing cruciate-retaining TKA: Is the tibial tuberosity a reliable predictor of the PCL footprint location?", "answer": ["yes"]}
+{"question": "The English antibiotic awareness campaigns: did they change the public's knowledge of and attitudes to antibiotic use?", "answer": ["no"]}
+{"question": "Does increased nerve length within the treatment volume improve trigeminal neuralgia radiosurgery?", "answer": ["no"]}
+{"question": "Should tumor depth be included in prognostication of soft tissue sarcoma?", "answer": ["no"]}
+{"question": "Is amoxapine an atypical antipsychotic?", "answer": ["yes"]}
+{"question": "Is non-HDL-cholesterol a better predictor of long-term outcome in patients after acute myocardial infarction compared to LDL-cholesterol?", "answer": ["yes"]}
+{"question": "Is intrapartum vibroacoustic stimulation an effective predictor of fetal acidosis?", "answer": ["yes"]}
+{"question": "The association of puberty and young adolescent alcohol use: do parents have a moderating role?", "answer": ["no"]}
+{"question": "Must early postoperative oral intake be limited to laparoscopy?", "answer": ["no"]}
+{"question": "Does patella position influence ligament balancing in total knee arthroplasty?", "answer": ["yes"]}
+{"question": "Is the advanced age a contraindication to GERD laparoscopic surgery?", "answer": ["no"]}
+{"question": "Ultra high risk (UHR) for psychosis criteria: are there different levels of risk for transition to psychosis?", "answer": ["yes"]}
+{"question": "Has the 80-hour workweek improved surgical resident education in New England?", "answer": ["no"]}
+{"question": "Can continuous physical training counteract aging effect on myoelectric fatigue?", "answer": ["yes"]}
+{"question": "Does ischemic preconditioning require reperfusion before index ischemia?", "answer": ["no"]}
+{"question": "Are sports medicine journals relevant and applicable to practitioners and athletes?", "answer": ["no"]}
+{"question": "Are polymorphisms in oestrogen receptors genes associated with lipid levels in response to hormone therapy?", "answer": ["yes"]}
+{"question": "Sternal plating for primary and secondary sternal closure; can it improve sternal stability?", "answer": ["yes"]}
+{"question": "Can dose reduction to one parotid gland prevent xerostomia?", "answer": ["yes"]}
+{"question": "Is the histidine triad nucleotide-binding protein 1 (HINT1) gene a candidate for schizophrenia?", "answer": ["no"]}
+{"question": "Increased neutrophil migratory activity after major trauma: a factor in the etiology of acute respiratory distress syndrome?", "answer": ["yes"]}
+{"question": "BCRABL transcript detection by quantitative real-time PCR : are correlated results possible from homebrew assays?", "answer": ["maybe"]}
+{"question": "Does higher body mass index contribute to worse asthma control in an urban population?", "answer": ["no"]}
+{"question": "Living in an urban environment and non-communicable disease risk in Thailand: Does timing matter?", "answer": ["yes"]}
+{"question": "Is renal warm ischemia over 30 minutes during laparoscopic partial nephrectomy possible?", "answer": ["no"]}
+{"question": "Does a febrile reaction to platelets predispose recipients to red blood cell alloimmunization?", "answer": ["yes"]}
+{"question": "Maternal creatine homeostasis is altered during gestation in the spiny mouse: is this a metabolic adaptation to pregnancy?", "answer": ["yes"]}
+{"question": "Pap smears with glandular cell abnormalities: Are they detected by rapid prescreening?", "answer": ["yes"]}
+{"question": "Delayed peripheral facial palsy in the stapes surgery: can it be prevented?", "answer": ["yes"]}
+{"question": "Hepatic arterial embolization for unresectable hepatocellular carcinomas: do technical factors affect prognosis?", "answer": ["yes"]}
+{"question": "Are pelvic anatomical structures in danger during arthroscopic acetabular labral repair?", "answer": ["yes"]}
+{"question": "Staging laparoscopy in patients with hepatocellular carcinoma: is it useful?", "answer": ["no"]}
+{"question": "Can echocardiography and ECG discriminate hereditary transthyretin V30M amyloidosis from hypertrophic cardiomyopathy?", "answer": ["yes"]}
+{"question": "Is robotically assisted laparoscopic radical prostatectomy less invasive than retropubic radical prostatectomy?", "answer": ["yes"]}
+{"question": "Pharmacologic regimens for knee osteoarthritis prevention: can they be cost-effective?", "answer": ["yes"]}
+{"question": "Is anorectal endosonography valuable in dyschesia?", "answer": ["yes"]}
+{"question": "Production of chemokines by perivascular adipose tissue: a role in the pathogenesis of atherosclerosis?", "answer": ["yes"]}
+{"question": "Continuity of care experience of residents in an academic vascular department: are trainees learning complete surgical care?", "answer": ["no"]}
+{"question": "Household and food shopping environments: do they play a role in socioeconomic inequalities in fruit and vegetable consumption?", "answer": ["no"]}
+{"question": "Does birth center care during a woman's first pregnancy have any impact on her future reproduction?", "answer": ["no"]}
+{"question": "Are environmental factors important in primary systemic vasculitis?", "answer": ["yes"]}
+{"question": "Is EQ-5D a valid quality of life instrument in patients with acute coronary syndrome?", "answer": ["yes"]}
+{"question": "Could Adult European Pharmacoresistant Epilepsy Patients Be Treated With Higher Doses of Zonisamide?", "answer": ["yes"]}
+{"question": "Does early migraine treatment shorten time to headache peak and reduce its severity?", "answer": ["yes"]}
+{"question": "Acute hepatitis C in Israel: a predominantly iatrogenic disease?", "answer": ["yes"]}
+{"question": "Do adjuvant aromatase inhibitors increase the cardiovascular risk in postmenopausal women with early breast cancer?", "answer": ["yes"]}
+{"question": "Metastatic carcinoma to the cervical nodes from an unknown head and neck primary site: Is there a need for neck dissection?", "answer": ["no"]}
+{"question": "Location and number of sutures placed for hiatal hernia repair during laparoscopic adjustable gastric banding: does it matter?", "answer": ["no"]}
+{"question": "Is Alveolar Macrophage Phagocytic Dysfunction in Children With Protracted Bacterial Bronchitis a Forerunner to Bronchiectasis?", "answer": ["yes"]}
+{"question": "Do elderly patients benefit from surgery in addition to radiotherapy for treatment of metastatic spinal cord compression?", "answer": ["no"]}
+{"question": "Is minilaparoscopic inguinal hernia repair feasible?", "answer": ["yes"]}
+{"question": "Surgical treatment of prosthetic valve endocarditis in patients with double prostheses: is single-valve replacement safe?", "answer": ["yes"]}
+{"question": "Risk stratification in emergency surgical patients: is the APACHE II score a reliable marker of physiological impairment?", "answer": ["yes"]}
+{"question": "Can nonproliferative breast disease and proliferative breast disease without atypia be distinguished by fine-needle aspiration cytology?", "answer": ["no"]}
+{"question": "Does the central venous pressure predict fluid responsiveness?", "answer": ["no"]}
+{"question": "Memory-provoked rCBF-SPECT as a diagnostic tool in Alzheimer's disease?", "answer": ["yes"]}
+{"question": "Can we ease the financial burden of colonoscopy?", "answer": ["yes"]}
+{"question": "Is discordance in TEOAE and AABR outcomes predictable in newborns?", "answer": ["yes"]}
+{"question": "Do European people with type 1 diabetes consume a high atherogenic diet?", "answer": ["yes"]}
+{"question": "Adults with mild intellectual disabilities: can their reading comprehension ability be improved?", "answer": ["yes"]}
+{"question": "Body diffusion-weighted MR imaging of uterine endometrial cancer: is it helpful in the detection of cancer in nonenhanced MR imaging?", "answer": ["yes"]}
+{"question": "Substance use and HIV-related sexual behaviors among US high school students: are they related?", "answer": ["yes"]}
+{"question": "Does sex influence the response to intravenous thrombolysis in ischemic stroke?", "answer": ["yes"]}
+{"question": "Thrombosis prophylaxis in hospitalised medical patients: does prophylaxis in all patients make sense?", "answer": ["no"]}
+{"question": "Do teleoncology models of care enable safe delivery of chemotherapy in rural towns?", "answer": ["yes"]}
+{"question": "Is There an Additional Value of Using Somatostatin Receptor Subtype 2a Immunohistochemistry Compared to Somatostatin Receptor Scintigraphy Uptake in Predicting Gastroenteropancreatic Neuroendocrine Tumor Response?", "answer": ["no"]}
+{"question": "Can vaginal pH be measured from the wet mount slide?", "answer": ["no"]}
+{"question": "Does Molecular Genotype Provide Useful Information in the Management of Radioiodine Refractory Thyroid Cancers?", "answer": ["yes"]}
+{"question": "Screening for gestational diabetes mellitus: are the criteria proposed by the international association of the Diabetes and Pregnancy Study Groups cost-effective?", "answer": ["yes"]}
+{"question": "Are higher rates of depression in women accounted for by differential symptom reporting?", "answer": ["no"]}
+{"question": "Follow-up of patients with new cardiovascular implantable electronic devices: are experts' recommendations implemented in routine clinical practice?", "answer": ["yes"]}
+{"question": "Does limb-salvage surgery offer patients better quality of life and functional capacity than amputation?", "answer": ["maybe"]}
+{"question": "Serum angiotensin-converting enzyme and frequency of severe hypoglycaemia in Type 1 diabetes: does a relationship exist?", "answer": ["yes"]}
+{"question": "Cervical spine fractures in geriatric blunt trauma patients with low-energy mechanism: are clinical predictors adequate?", "answer": ["no"]}
+{"question": "Do microbiological factors account for poor pregnancy outcome among unmarried pregnant women in Poland?", "answer": ["yes"]}
+{"question": "Should all patients be optimized to the same preoperative hemoglobin level to avoid transfusion in primary knee arthroplasty?", "answer": ["no"]}
+{"question": "Is there any relation between cervical cord plaques and discopathy in patients with multiple sclerosis?", "answer": ["yes"]}
+{"question": "Is the processing of affective prosody influenced by spatial attention?", "answer": ["maybe"]}
+{"question": "Is there a role for leukocyte and CRP measurements in the diagnosis of acute appendicitis in the elderly?", "answer": ["maybe"]}
+{"question": "Are bipolar disorders underdiagnosed in patients with depressive episodes?", "answer": ["maybe"]}
+{"question": "Prognosis of low-tone sudden deafness - does it inevitably progress to Meniere's disease?", "answer": ["no"]}
+{"question": "Can pictorial warning labels on cigarette packages address smoking-related health disparities?", "answer": ["yes"]}
+{"question": "Is fear of anaphylactic shock discouraging surgeons from more widely adopting percutaneous and laparoscopic techniques in the treatment of liver hydatid cyst?", "answer": ["yes"]}
+{"question": "Reporting and interpreting red blood cell morphology: is there discordance between clinical pathologists and clinicians?", "answer": ["yes"]}
+{"question": "Medical student education in emergency medicine: do students meet the national standards for clinical encounters of selected core conditions?", "answer": ["no"]}
+{"question": "A model of healing of Los Angeles grades C and D reflux oesophagitis: is there an optimal time of acid suppression for maximal healing?", "answer": ["yes"]}
+{"question": "Gadofosveset-enhanced MR angiography of carotid arteries: does steady-state imaging improve accuracy of first-pass imaging?", "answer": ["yes"]}
+{"question": "Elephant trunk in a small-calibre true lumen for chronic aortic dissection: cause of haemolytic anaemia?", "answer": ["yes"]}
+{"question": "Does partial expander deflation exacerbate the adverse effects of radiotherapy in two-stage breast reconstruction?", "answer": ["yes"]}
+{"question": "Can p53 alterations be used to predict tumour response to pre-operative chemo-radiotherapy in locally advanced rectal cancer?", "answer": ["no"]}
+{"question": "Is pelvic pain associated with defecatory symptoms in women with pelvic organ prolapse?", "answer": ["yes"]}
+{"question": "Laparoscopic-assisted ileocolic resections in patients with Crohn's disease: are abscesses, phlegmons, or recurrent disease contraindications?", "answer": ["no"]}
+{"question": "Has the use of complementary and alternative medicine therapies by U.S. adults with chronic disease-related functional limitations changed from 2002 to 2007?", "answer": ["yes"]}
+{"question": "Is extended aortic replacement in acute type A dissection justifiable?", "answer": ["yes"]}
+{"question": "Is intensive monitoring during the first transfusion in pediatric patients necessary?", "answer": ["no"]}
+{"question": "Effects of exercise training on heart rate and QT interval in healthy young individuals: are there gender differences?", "answer": ["yes"]}
+{"question": "Is coeliac disease screening in risk groups justified?", "answer": ["yes"]}
+{"question": "Is aerobic workload positively related to ambulatory blood pressure?", "answer": ["yes"]}
+{"question": "Is fluoroscopy essential for retrieval of lower ureteric stones?", "answer": ["no"]}
+{"question": "Does the sequence of clamp application during open abdominal aortic aneurysm surgery influence distal embolisation?", "answer": ["no"]}
+{"question": "Are lower fasting plasma glucose levels at diagnosis of type 2 diabetes associated with improved outcomes?", "answer": ["yes"]}
+{"question": "Do elderly patients call 911 when presented with clinical scenarios suggestive of acute stroke?", "answer": ["maybe"]}
+{"question": "Are virtual planning and guided surgery for head and neck reconstruction economically viable?", "answer": ["yes"]}
+{"question": "Do overweight children necessarily make overweight adults?", "answer": ["no"]}
+{"question": "Does a history of unintended pregnancy lessen the likelihood of desire for sterilization reversal?", "answer": ["no"]}
+{"question": "Does early discharge with nurse home visits affect adequacy of newborn metabolic screening?", "answer": ["no"]}
+{"question": "Does increasing blood pH stimulate protein synthesis in dialysis patients?", "answer": ["no"]}
+{"question": "Can T-cell deficiency affect spatial learning ability following toluene exposure?", "answer": ["yes"]}
+{"question": "Is there a relationship between homocysteine and vitiligo?", "answer": ["yes"]}
+{"question": "Is Aspiration Thrombectomy Beneficial in Patients Undergoing Primary Percutaneous Coronary Intervention?", "answer": ["no"]}
+{"question": "Can static foot posture measurements predict regional plantar surface area?", "answer": ["yes"]}
+{"question": "Can dentists recognize manipulated digital radiographs?", "answer": ["no"]}
+{"question": "Is delayed gastric emptying following pancreaticoduodenectomy related to pylorus preservation?", "answer": ["no"]}
+{"question": "Is Overexpression of Ki-67 a Prognostic Biomarker of Upper Tract Urinary Carcinoma?", "answer": ["yes"]}
+{"question": "Does the treatment of amblyopia normalise subfoveal choroidal thickness in amblyopic children?", "answer": ["no"]}
+{"question": "A comparison of 500 prefilled textured saline breast implants versus 500 standard textured saline breast implants: is there a difference in deflation rates?", "answer": ["yes"]}
+{"question": "Do foreign bodies migrate through the body towards the heart?", "answer": ["no"]}
+{"question": "Is there a relationship between serum paraoxonase level and epicardial fat tissue thickness?", "answer": ["no"]}
+{"question": "Chemoradiation instead of surgery to treat mid and low rectal tumors: is it safe?", "answer": ["no"]}
+{"question": "Is calibration the cause of variation in liquid chromatography tandem mass spectrometry testosterone measurement?", "answer": ["no"]}
+{"question": "Are complex coronary lesions more frequent in patients with diabetes mellitus?", "answer": ["yes"]}
+{"question": "Are variations in the use of carotid endarterectomy explained by population Need?", "answer": ["no"]}
+{"question": "Are there effects of intrauterine cocaine exposure on delinquency during early adolescence?", "answer": ["no"]}
+{"question": "Is expert breast pathology assessment necessary for the management of ductal carcinoma in situ ?", "answer": ["yes"]}
+{"question": "Thoracic and thoracoabdominal aneurysm repair: is reimplantation of spinal cord arteries a waste of time?", "answer": ["yes"]}
+{"question": "Is year of radical prostatectomy a predictor of outcome in prostate cancer?", "answer": ["yes"]}
+{"question": "Does health information exchange reduce redundant imaging?", "answer": ["yes"]}
+{"question": "Is decompressive surgery effective for spinal cord sarcoidosis accompanied with compressive cervical myelopathy?", "answer": ["no"]}
+{"question": "Endovenous laser ablation in the treatment of small saphenous varicose veins: does site of access influence early outcomes?", "answer": ["no"]}
+{"question": "Is a pressor necessary during aortic perfusion and oxygenation therapy of cardiac arrest?", "answer": ["yes"]}
+{"question": "Do people who were passive smokers during childhood have increased risk of long-term work disability?", "answer": ["yes"]}
+{"question": "Is the covering of the resection margin after distal pancreatectomy advantageous?", "answer": ["no"]}
+{"question": "Does treatment duration affect outcome after radiotherapy for prostate cancer?", "answer": ["yes"]}
+{"question": "Is the urinary biomarkers assessment a non-invasive approach to tubular lesions of the solitary kidney?", "answer": ["yes"]}
+{"question": "Is there a role for fondaparinux in perioperative bridging?", "answer": ["no"]}
+{"question": "Motor performance in chronic low back pain: is there an influence of pain-related cognitions?", "answer": ["yes"]}
+{"question": "Patient comprehension of emergency department care and instructions: are patients aware of when they do not understand?", "answer": ["no"]}
+{"question": "Can mandibular depiction be improved by changing the thickness of double-oblique computed tomography images?", "answer": ["no"]}
+{"question": "Adjuvant radiation of stage III thymoma: is it necessary?", "answer": ["no"]}
+{"question": "Is the fibronectin-aggrecan complex present in cervical disk disease?", "answer": ["yes"]}
+{"question": "Does peritoneal dialysis affect halitosis in patients with end-stage renal disease?", "answer": ["yes"]}
+{"question": "Can elevated troponin I levels predict complicated clinical course and inhospital mortality in patients with acute pulmonary embolism?", "answer": ["yes"]}
+{"question": "Is transurethral catheterisation the ideal method of bladder drainage?", "answer": ["no"]}
+{"question": "Does anterior laxity of the uninjured knee influence clinical outcomes of ACL reconstruction?", "answer": ["yes"]}
+{"question": "Is the type of remission after a major depressive episode an important risk factor to relapses in a 4-year follow up?", "answer": ["yes"]}
+{"question": "Is breast cancer survival improving?", "answer": ["yes"]}
+{"question": "Can common carotid intima media thickness serve as an indicator of both cardiovascular phenotype and risk among black Africans?", "answer": ["yes"]}
+{"question": "Delayed diagnosis of anorectal malformations: are current guidelines sufficient?", "answer": ["no"]}
+{"question": "Comparative safety of infliximab and etanercept on the risk of serious infections: does the association vary by patient characteristics?", "answer": ["yes"]}
+{"question": "Fast foods - are they a risk factor for asthma?", "answer": ["yes"]}
+{"question": "Can magnetic resonance-ultrasound fusion biopsy improve cancer detection in enlarged prostates?", "answer": ["yes"]}
+{"question": "Does normothermic normokalemic simultaneous antegrade/retrograde perfusion improve myocardial oxygenation and energy metabolism for hypertrophied hearts?", "answer": ["no"]}
+{"question": "Are there progressive brain changes in schizophrenia?", "answer": ["yes"]}
+{"question": "Does concept mapping enhance learning outcome of nursing students?", "answer": ["yes"]}
+{"question": "Is the Androgen Deficiency of Aging Men (ADAM) questionnaire useful for the screening of partial androgenic deficiency of aging men?", "answer": ["no"]}
+{"question": "Does the Transmissible Liability Index (TLI) assessed in late childhood predict suicidal symptoms at young adulthood?", "answer": ["yes"]}
+{"question": "Are there gender differences in the reasons why African Americans delay in seeking medical help for symptoms of an acute myocardial infarction?", "answer": ["yes"]}
+{"question": "Are lifetime prevalence of impetigo, molluscum and herpes infection really increased in children having atopic dermatitis?", "answer": ["maybe"]}
+{"question": "Does sonographic needle guidance affect the clinical outcome of intraarticular injections?", "answer": ["yes"]}
+{"question": "Factors determining the survival of nasopharyngeal carcinoma with lung metastasis alone: does combined modality treatment benefit?", "answer": ["yes"]}
+{"question": "Does the enteral feeding advancement affect short-term outcomes in very low birth weight infants?", "answer": ["yes"]}
+{"question": "Does psychological distress predict disability?", "answer": ["yes"]}
+{"question": "Is there a first night effect on sleep bruxism?", "answer": ["no"]}
+{"question": "Does menopausal transition affect the quality of life?", "answer": ["no"]}
+{"question": "Can clinicians use the PHQ-9 to assess depression in people with vision loss?", "answer": ["yes"]}
+{"question": "Does growth hormone replacement therapy reduce mortality in adults with growth hormone deficiency?", "answer": ["no"]}
+{"question": "Attaining negative margins in breast-conservation operations: is there a consensus among breast surgeons?", "answer": ["no"]}
+{"question": "Can serum be used for analyzing the EGFR mutation status in patients with advanced non-small cell lung cancer?", "answer": ["yes"]}
+{"question": "Are patients with diabetes receiving the same message from dietitians and nurses?", "answer": ["no"]}
+{"question": "Preparing patients at high risk of falls for discharge home after rehabilitation: Do we meet the guidelines?", "answer": ["no"]}
+{"question": "Expression of c-kit protooncogen in hepatitis B virus-induced chronic hepatitis, cirrhosis and hepatocellular carcinoma: has it a diagnostic role?", "answer": ["maybe"]}
+{"question": "Longer term quality of life and outcome in stroke patients: is the Barthel index alone an adequate measure of outcome?", "answer": ["yes"]}
+{"question": "Do women residents delay childbearing due to perceived career threats?", "answer": ["yes"]}
+{"question": "Do general practitioner hospitals reduce the utilisation of general hospital beds?", "answer": ["yes"]}
+{"question": "Some aspects of social exclusion: do they influence suicide mortality?", "answer": ["yes"]}
+{"question": "Does parity increase insulin resistance during pregnancy?", "answer": ["no"]}
+{"question": "Informed consent for total hip arthroplasty: does a written information sheet improve recall by patients?", "answer": ["yes"]}
+{"question": "Is gastric cancer different in Korea and the United States?", "answer": ["yes"]}
+{"question": "Do we need imaging to diagnose appendicitis in children?", "answer": ["maybe"]}
+{"question": "Does the distribution of health care benefits in Kenya meet the principles of universal coverage?", "answer": ["no"]}
+{"question": "Cholesterol screening in school children: is family history reliable to choose the ones to screen?", "answer": ["no"]}
+{"question": "Bony defects in chronic anterior posttraumatic dislocation of the shoulder: Is there a correlation between humeral and glenoidal lesions?", "answer": ["no"]}
+{"question": "Do parents recall and understand children's weight status information after BMI screening?", "answer": ["maybe"]}
+{"question": "Does ambulatory process of care predict health-related quality of life outcomes for patients with chronic disease?", "answer": ["yes"]}
+{"question": "Does perspective-taking increase patient satisfaction in medical encounters?", "answer": ["maybe"]}
+{"question": "Is first-line single-agent mitoxantrone in the treatment of high-risk metastatic breast cancer patients as effective as combination chemotherapy?", "answer": ["yes"]}
+{"question": "Is neck pain associated with worse health-related quality of life 6 months later?", "answer": ["yes"]}
+{"question": "Does oral \u03b1-galactosidase relieve irritable bowel symptoms?", "answer": ["no"]}
+{"question": "Is there a connection between sublingual varices and hypertension?", "answer": ["yes"]}
+{"question": "Can CT predict the level of CSF block in tuberculous hydrocephalus?", "answer": ["yes"]}
+{"question": "MR arthrography of the shoulder: do we need local anesthesia?", "answer": ["no"]}
+{"question": "Does cognitive function predict frequency compressed speech recognition in listeners with normal hearing and normal cognition?", "answer": ["no"]}
+{"question": "Should cavitation in proximal surfaces be reported in cone beam computed tomography examination?", "answer": ["yes"]}
+{"question": "Do supervised colorectal trainees differ from consultants in terms of quality of TME surgery?", "answer": ["no"]}
+{"question": "Women with synchronous primary cancers of the endometrium and ovary: do they have Lynch syndrome?", "answer": ["maybe"]}
+{"question": "Can emergency physicians accurately and reliably assess acute vertigo in the emergency department?", "answer": ["yes"]}
+{"question": "Is the cell death in mesial temporal sclerosis apoptotic?", "answer": ["maybe"]}
+{"question": "Contrast-enhanced MR imaging of hand and finger joints in patients with early rheumatoid arthritis: do we really need a full dose of gadobenate dimeglumine for assessing synovial enhancement at 3 T?", "answer": ["no"]}
+{"question": "Does case-mix based reimbursement stimulate the development of process-oriented care delivery?", "answer": ["yes"]}
+{"question": "Risky sexual behavior among college students With ADHD: is the mother-child relationship protective?", "answer": ["yes"]}
+{"question": "Is there a need for pelvic CT scan in cases of renal cell carcinoma?", "answer": ["no"]}
+{"question": "Prognostic factors for cervical spondylotic amyotrophy: are signs of spinal cord involvement associated with the neurological prognosis?", "answer": ["yes"]}
+{"question": "Is Bare-Metal Stent Implantation Still Justifiable in High Bleeding Risk Patients Undergoing Percutaneous Coronary Intervention?", "answer": ["yes"]}
+{"question": "Does minimal access major surgery in the newborn hurt less?", "answer": ["no"]}
+{"question": "Does aerobic fitness influence microvascular function in healthy adults at risk of developing Type 2 diabetes?", "answer": ["maybe"]}
+{"question": "Are high flow nasal cannulae noisier than bubble CPAP for preterm infants?", "answer": ["no"]}
+{"question": "Standardizing care in medical oncology: are Web-based systems the answer?", "answer": ["maybe"]}
+{"question": "Antiretroviral therapy related adverse effects: Can sub-Saharan Africa cope with the new \"test and treat\" policy of the World Health Organization?", "answer": ["no"]}
+{"question": "Are the elderly with oropharyngeal carcinoma undertreated?", "answer": ["maybe"]}
+{"question": "Preoperative staging of patients with liver metastases of colorectal carcinoma. Does PET/CT really add something to multidetector CT?", "answer": ["no"]}
+{"question": "Can myometrial electrical activity identify patients in preterm labor?", "answer": ["yes"]}
+{"question": "Schizophrenia patients with high intelligence: A clinically distinct sub-type of schizophrenia?", "answer": ["yes"]}
+{"question": "Is nasogastric decompression useful in prevention of leaks after laparoscopic sleeve gastrectomy?", "answer": ["no"]}
+{"question": "The objective structured clinical examination: can physician-examiners participate from a distance?", "answer": ["yes"]}
+{"question": "CPAP therapy in patients with idiopathic pulmonary fibrosis and obstructive sleep apnea: does it offer a better quality of life and sleep?", "answer": ["maybe"]}
+{"question": "Does open access endoscopy close the door to an adequately informed patient?", "answer": ["yes"]}
+{"question": "Is hypoalbuminemia an independent prognostic factor in patients with gastric cancer?", "answer": ["no"]}
+{"question": "Does skin care frequency affect the severity of incontinence-associated dermatitis in critically ill patients?", "answer": ["yes"]}
+{"question": "Is primary angioplasty an acceptable alternative to thrombolysis?", "answer": ["yes"]}
+{"question": "Should HIV-infected patients be screened for silent myocardial ischaemia using gated myocardial perfusion SPECT?", "answer": ["maybe"]}
+{"question": "The FOOTSTEP self-management foot care programme: are rheumatoid arthritis patients physically able to participate?", "answer": ["maybe"]}
+{"question": "Does base deficit predict mortality in patients with severe traumatic brain injury?", "answer": ["no"]}
+{"question": "Does increased use of private health care reduce the demand for NHS care?", "answer": ["no"]}
+{"question": "Does confined placental mosaicism account for adverse perinatal outcomes in IVF pregnancies?", "answer": ["no"]}
+{"question": "Utility of unenhanced fat-suppressed T1-weighted MRI in children with sickle cell disease -- can it differentiate bone infarcts from acute osteomyelitis?", "answer": ["no"]}
+{"question": "Cancer of the buccal mucosa: are margins and T-stage accurate predictors of local control?", "answer": ["no"]}
+{"question": "Can mass drug administration lead to the sustainable control of schistosomiasis?", "answer": ["no"]}
+{"question": "Can D-dimer become a new diagnostic parameter for acute appendicitis?", "answer": ["no"]}
+{"question": "Is there a relationship between rheumatoid arthritis and periodontal disease?", "answer": ["yes"]}
+{"question": "Do clinical variables predict pathologic radiographs in the first episode of wheezing?", "answer": ["no"]}
+{"question": "Does government assistance improve utilization of eye care services by low-income individuals?", "answer": ["maybe"]}
+{"question": "Does telmisartan prevent hepatic fibrosis in rats with alloxan-induced diabetes?", "answer": ["yes"]}
+{"question": "Two-year follow-up survey of patients with allergic contact dermatitis from an occupational cohort: is the prognosis dependent on the omnipresence of the allergen?", "answer": ["yes"]}
+{"question": "Can calprotectin predict relapse risk in inflammatory bowel disease?", "answer": ["maybe"]}
+{"question": "Is there a discrepancy between patient and physician quality of life assessment?", "answer": ["yes"]}
+{"question": "Is diffusion-weighted imaging a significant indicator of the development of vascularization in hypovascular hepatocellular lesions?", "answer": ["no"]}
+{"question": "Does evidence-based practice improve patient outcomes?", "answer": ["yes"]}
+{"question": "Multidisciplinary decisions in breast cancer: does the patient receive what the team has recommended?", "answer": ["yes"]}
+{"question": "Does quilting suture prevent seroma in abdominoplasty?", "answer": ["yes"]}
+{"question": "Does feeding tube insertion and its timing improve survival?", "answer": ["no"]}
+{"question": "Does prostate morphology affect outcomes after holmium laser enucleation?", "answer": ["yes"]}
+{"question": "Could ESC (Electronic Stability Control) change the way we drive?", "answer": ["yes"]}
+{"question": "Does ethnicity affect where people with cancer die?", "answer": ["yes"]}
+{"question": "Are patients with serious mental illness more likely to be admitted to nursing homes with more deficiencies in care?", "answer": ["yes"]}
+{"question": "Does an additional antirotation U-Blade (RC) lag screw improve treatment of AO/OTA 31 A1-3 fractures with gamma 3 nail?", "answer": ["no"]}
+{"question": "May mean platelet volume levels be a predictor in the diagnosis of pelvic inflammatory disease?", "answer": ["yes"]}
+{"question": "Do cytokine concentrations in pancreatic juice predict the presence of pancreatic diseases?", "answer": ["yes"]}
+{"question": "Does the sex of acute stroke patients influence the effectiveness of rt-PA?", "answer": ["no"]}
+{"question": "Are head and neck specific quality of life measures necessary?", "answer": ["yes"]}
+{"question": "Is micro-computed tomography reliable to determine the microstructure of the maxillary alveolar bone?", "answer": ["yes"]}
+{"question": "Does frozen section alter surgical management of multinodular thyroid disease?", "answer": ["no"]}
+{"question": "Could chest wall rigidity be a factor in rapid death from illicit fentanyl abuse?", "answer": ["yes"]}
+{"question": "Is severe pain immediately after spinal augmentation a predictor of long-term outcomes?", "answer": ["no"]}
+{"question": "Can computerised tomography replace bone scintigraphy in detecting bone metastases from breast cancer?", "answer": ["yes"]}
+{"question": "Does obesity impact the pattern and outcome of trauma in children?", "answer": ["no"]}
+{"question": "Is non-invasive diagnosis of esophageal varices in patients with compensated hepatic cirrhosis possible by duplex Doppler ultrasonography?", "answer": ["yes"]}
+{"question": "Can dogs prime autistic children for therapy?", "answer": ["yes"]}
+{"question": "Are 99mTc leukocyte scintigraphy and SBFT studies useful in children suspected of having inflammatory bowel disease?", "answer": ["yes"]}
+{"question": "Risk factors for avascular necrosis of bone in patients with systemic lupus erythematosus: is there a role for antiphospholipid antibodies?", "answer": ["no"]}
+{"question": "Prostate bed target interfractional motion using RTOG consensus definitions and daily CT on rails : Does target motion differ between superior and inferior portions of the clinical target volume?", "answer": ["no"]}
+{"question": "Esophagogastric devascularization without splenectomy in portal hypertension: safe and effective?", "answer": ["yes"]}
+{"question": "Is plate clearing a risk factor for obesity?", "answer": ["yes"]}
+{"question": "Is vancomycin MIC creep a worldwide phenomenon?", "answer": ["no"]}
+{"question": "Does short-term treatment with proton pump inhibitors cause rebound aggravation of symptoms?", "answer": ["no"]}
+{"question": "Aberrant loss of dickkopf-3 in gastric cancer: can it predict lymph node metastasis preoperatively?", "answer": ["yes"]}
+{"question": "Is ganglionated plexi ablation during Maze IV procedure beneficial for postoperative long-term stable sinus rhythm?", "answer": ["no"]}
+{"question": "Double reading of barium enemas: is it necessary?", "answer": ["no"]}
+{"question": "Is severe macrosomia manifested at 11-14 weeks of gestation?", "answer": ["yes"]}
+{"question": "Do older adults with cancer fall more often?", "answer": ["yes"]}
+{"question": "Scrotal approach to both palpable and impalpable undescended testes: should it become our first choice?", "answer": ["yes"]}
+{"question": "Is grandmultiparity an independent risk factor for adverse perinatal outcomes?", "answer": ["yes"]}
+{"question": "Does the investing layer of the deep cervical fascia exist?", "answer": ["no"]}
+{"question": "Is crime associated with over-the-counter pharmacy syringe sales?", "answer": ["yes"]}
+{"question": "Is prophylactic fixation a cost-effective method to prevent a future contralateral fragility hip fracture?", "answer": ["maybe"]}
+{"question": "Is double-balloon enteroscopy an accurate method to diagnose small-bowel disorders?", "answer": ["yes"]}
+{"question": "Does strategy training reduce age-related deficits in working memory?", "answer": ["no"]}
+{"question": "Is fetal anatomic assessment on follow-up antepartum sonograms clinically useful?", "answer": ["yes"]}
+{"question": "Can magnetic resonance imaging accurately predict concordant pain provocation during provocative disc injection?", "answer": ["yes"]}
+{"question": "Is a 9-month treatment sufficient in tuberculous enterocolitis?", "answer": ["yes"]}
+{"question": "Does coronary angiography before emergency aortic surgery affect in-hospital mortality?", "answer": ["no"]}
+{"question": "Is bicompartmental knee arthroplasty more favourable to knee muscle strength and physical performance compared to total knee arthroplasty?", "answer": ["no"]}
+{"question": "Diagnosis and follow-up in constipated children: should we use ultrasound?", "answer": ["yes"]}
+{"question": "Are neighbourhood social capital and availability of sports facilities related to sports participation among Dutch adolescents?", "answer": ["maybe"]}
+{"question": "Did the call for boycott by the Catholic bishops affect the polio vaccination coverage in Kenya in 2015?", "answer": ["no"]}
+{"question": "Recurrent spontaneous abortion and skewed X-inactivation: is there an association?", "answer": ["no"]}
+{"question": "Does increased patient awareness improve accrual into cancer-related clinical trials?", "answer": ["no"]}
+{"question": "Is withdrawal-induced anxiety in alcoholism based on beta-endorphin deficiency?", "answer": ["yes"]}
+{"question": "Do older patients receive adequate stroke care?", "answer": ["maybe"]}
+{"question": "Doppler examination of uteroplacental circulation in early pregnancy: can it predict adverse outcome?", "answer": ["yes"]}
+{"question": "Can vitamin C prevent complex regional pain syndrome in patients with wrist fractures?", "answer": ["yes"]}
+{"question": "Is digoxin use for cardiovascular disease associated with risk of prostate cancer?", "answer": ["yes"]}
+{"question": "Are income-related differences in active travel associated with physical environmental characteristics?", "answer": ["no"]}
+{"question": "Does the severity of obstructive sleep apnea predict patients requiring high continuous positive airway pressure?", "answer": ["maybe"]}
+{"question": "Do the changes in the serum levels of IL-2, IL-4, TNFalpha, and IL-6 reflect the inflammatory activity in the patients with post-ERCP pancreatitis?", "answer": ["yes"]}
+{"question": "Is routine intraoperative frozen-section examination of sentinel lymph nodes in breast cancer worthwhile?", "answer": ["maybe"]}
+{"question": "Preoperative platelet count in esophageal squamous cell carcinoma: is it a prognostic factor?", "answer": ["yes"]}
+{"question": "Could ADMA levels in young adults born preterm predict an early endothelial dysfunction?", "answer": ["yes"]}
+{"question": "Can fractional lasers enhance transdermal absorption of topical lidocaine in an in vivo animal model?", "answer": ["yes"]}
+{"question": "Does intra-abdominal desmoid disease affect patients with an ileal pouch differently than those with an ileorectal anastomosis?", "answer": ["no"]}
+{"question": "Health care for immigrants in Europe: is there still consensus among country experts about principles of good practice?", "answer": ["maybe"]}
+{"question": "Can clinical supervision sustain our workforce in the current healthcare landscape?", "answer": ["yes"]}
+{"question": "Is the determination of specific IgE against components using ISAC 112 a reproducible technique?", "answer": ["yes"]}
+{"question": "Is the first urinary albumin/creatinine ratio (ACR) in women with suspected preeclampsia a prognostic factor for maternal and neonatal adverse outcome?", "answer": ["yes"]}
+{"question": "Do women with ovaries of polycystic morphology without any other features of PCOS benefit from short-term metformin co-treatment during IVF?", "answer": ["no"]}
+{"question": "Estimated fetal weight by ultrasound: a modifiable risk factor for cesarean delivery?", "answer": ["yes"]}
+{"question": "Does Mammographic Density have an Impact on the Margin Re-excision Rate After Breast-Conserving Surgery?", "answer": ["no"]}
+{"question": "Are women who are treated for hypothyroidism at risk for pregnancy complications?", "answer": ["no"]}
+{"question": "Internal derangement of the temporomandibular joint: is there still a place for ultrasound?", "answer": ["no"]}
+{"question": "Is intensive chemotherapy safe for rural cancer patients?", "answer": ["yes"]}
+{"question": "Does sex affect the outcome of laparoscopic cholecystectomy?", "answer": ["yes"]}
+{"question": "Is atropine needed with ketamine sedation?", "answer": ["yes"]}
+{"question": "Does implant coating with antibacterial-loaded hydrogel reduce bacterial colonization and biofilm formation in vitro?", "answer": ["yes"]}
+{"question": "Combining process indicators to evaluate quality of care for surgical patients with colorectal cancer: are scores consistent with short-term outcome?", "answer": ["maybe"]}
+{"question": "Can APC mutation analysis contribute to therapeutic decisions in familial adenomatous polyposis?", "answer": ["maybe"]}
+{"question": "Do emergency medical services professionals think they should participate in disease prevention?", "answer": ["maybe"]}
+{"question": "Is the ability to perform transurethral resection of the prostate influenced by the surgeon's previous experience?", "answer": ["yes"]}
+{"question": "Is there a differential in the dental health of new recruits to the British Armed Forces?", "answer": ["yes"]}
+{"question": "Is laparoscopic reoperation for failed antireflux surgery feasible?", "answer": ["yes"]}
+{"question": "Does exercise during pregnancy prevent postnatal depression?", "answer": ["no"]}
+{"question": "Is endometrial polyp formation associated with increased expression of vascular endothelial growth factor and transforming growth factor-beta1?", "answer": ["yes"]}
+{"question": "Is human cytomegalovirus infection associated with hypertension?", "answer": ["no"]}
+{"question": "Does radiotherapy around the time of pregnancy for Hodgkin's disease modify the risk of breast cancer?", "answer": ["yes"]}
+{"question": "Should displaced midshaft clavicular fractures be treated surgically?", "answer": ["yes"]}
+{"question": "Is laparoscopic cholecystectomy safe and acceptable as a day case procedure?", "answer": ["yes"]}
+{"question": "Is etoricoxib effective in preventing heterotopic ossification after primary total hip arthroplasty?", "answer": ["yes"]}
+{"question": "Should serum pancreatic lipase replace serum amylase as a biomarker of acute pancreatitis?", "answer": ["yes"]}
+{"question": "Rectal cancer threatening or affecting the prostatic plane: is partial prostatectomy oncologically adequate?", "answer": ["maybe"]}
+{"question": "Does bone anchor fixation improve the outcome of percutaneous bladder neck suspension in female stress urinary incontinence?", "answer": ["yes"]}
+{"question": "Are intraoperative precursor events associated with postoperative major adverse events?", "answer": ["yes"]}
+{"question": "Does a family meetings intervention prevent depression and anxiety in family caregivers of dementia patients?", "answer": ["no"]}
+{"question": "Does preoperative anemia adversely affect colon and rectal surgery outcomes?", "answer": ["yes"]}
+{"question": "Can early second-look tympanoplasty reduce the rate of conversion to modified radical mastoidectomy?", "answer": ["yes"]}
+{"question": "Is serum total bilirubin useful to differentiate cardioembolic stroke from other stroke subtypes?", "answer": ["yes"]}
+{"question": "Delayed imaging in routine CT examinations of the abdomen and pelvis: is it worth the additional cost of radiation and time?", "answer": ["no"]}
+{"question": "Have antiepileptic drug prescription claims changed following the FDA suicidality warning?", "answer": ["no"]}
+{"question": "Does ossification of the posterior longitudinal ligament affect the neurological outcome after traumatic cervical cord injury?", "answer": ["no"]}
+{"question": "Can distal ureteral diameter predict reflux resolution after endoscopic injection?", "answer": ["yes"]}
+{"question": "Is leptin involved in phagocytic NADPH oxidase overactivity in obesity?", "answer": ["yes"]}
+{"question": "Is laparoscopic sonography a reliable and sensitive procedure for staging colorectal cancer?", "answer": ["yes"]}
+{"question": "Is alexithymia a risk factor for unexplained physical symptoms in general medical outpatients?", "answer": ["no"]}
+{"question": "Alcohol consumption and acute myocardial infarction: a benefit of alcohol consumed with meals?", "answer": ["yes"]}
+{"question": "Do mossy fibers release GABA?", "answer": ["yes"]}
+{"question": "The clinical significance of bile duct sludge: is it different from bile duct stones?", "answer": ["no"]}
+{"question": "Can Ambu self-inflating bag and Neopuff infant resuscitator provide adequate and safe manual inflations for infants up to 10\u2005kg weight?", "answer": ["maybe"]}
+{"question": "Are IgM-enriched immunoglobulins an effective adjuvant in septic VLBW infants?", "answer": ["yes"]}
+{"question": "Is resected stomach volume related to weight loss after laparoscopic sleeve gastrectomy?", "answer": ["no"]}
+{"question": "Resection of colorectal liver metastases after second-line chemotherapy: is it worthwhile?", "answer": ["no"]}
+{"question": "Do ART patients face higher C-section rates during their stage of delivery?", "answer": ["yes"]}
+{"question": "Does a preoperative medically supervised weight loss program improve bariatric surgery outcomes?", "answer": ["no"]}
+{"question": "Is solitary kidney really more resistant to ischemia?", "answer": ["yes"]}
+{"question": "Neck pain treatment with acupuncture: does the number of needles matter?", "answer": ["no"]}
+{"question": "SPECT study with I-123-Ioflupane (DaTSCAN) in patients with essential tremor. Is there any correlation with Parkinson's disease?", "answer": ["no"]}
+{"question": "Is inhaled prophylactic heparin useful for prevention and Management of Pneumonia in ventilated ICU patients?", "answer": ["no"]}
+{"question": "Is the h-index predictive of greater NIH funding success among academic radiologists?", "answer": ["yes"]}
+{"question": "Is minimally invasive mitral valve repair with artificial chords reproducible and applicable in routine surgery?", "answer": ["yes"]}
+{"question": "Does obesity predict knee pain over fourteen years in women, independently of radiographic changes?", "answer": ["yes"]}
+{"question": "Outcomes of severely injured adult trauma patients in an Australian health service: does trauma center level make a difference?", "answer": ["yes"]}
+{"question": "Does a well developed collateral circulation predispose to restenosis after percutaneous coronary intervention?", "answer": ["no"]}
+{"question": "Are home sampling kits for sexually transmitted infections acceptable among men who have sex with men?", "answer": ["maybe"]}
+{"question": "Does route of delivery affect maternal and perinatal outcome in women with eclampsia?", "answer": ["no"]}
+{"question": "Surgical management of the atherosclerotic ascending aorta: is endoaortic balloon occlusion safe?", "answer": ["no"]}
+{"question": "Are opioid dependence and methadone maintenance treatment (MMT) documented in the medical record?", "answer": ["maybe"]}
+{"question": "Can teaching medical students to investigate medication errors change their attitudes towards patient safety?", "answer": ["yes"]}
+{"question": "Has the prevalence of health care services use increased over the last decade (2001-2009) in elderly people?", "answer": ["yes"]}
+{"question": "Does high-dose radiotherapy benefit palliative lung cancer patients?", "answer": ["no"]}
+{"question": "Malnutrition, a new inducer for arterial calcification in hemodialysis patients?", "answer": ["yes"]}
+{"question": "Does glomerular hyperfiltration in pregnancy damage the kidney in women with more parities?", "answer": ["no"]}
+{"question": "Can the Internet be used to improve sexual health awareness in web-wise young people?", "answer": ["maybe"]}
+{"question": "Is eligibility for a chemotherapy protocol a good prognostic factor for invasive bladder cancer after radical cystectomy?", "answer": ["yes"]}
+{"question": "Does a geriatric oncology consultation modify the cancer treatment plan for elderly patients?", "answer": ["yes"]}
+{"question": "Does left atrial appendage (LAA) occlusion device alter the echocardiography and electrocardiogram parameters in patients with atrial fibrillation?", "answer": ["yes"]}
+{"question": "Can ki-67 play a role in prediction of breast cancer patients' response to neoadjuvant chemotherapy?", "answer": ["yes"]}
+{"question": "Intravenous administration of metoclopramide by 2 min bolus vs 15 min infusion: does it affect the improvement of headache while reducing the side effects?", "answer": ["yes"]}
+{"question": "Does escalation of the apical dose change treatment outcome in beta-radiation of posterior choroidal melanomas with 106Ru plaques?", "answer": ["no"]}
+{"question": "Does septoplasty change the dimensions of compensatory hypertrophy of the middle turbinate?", "answer": ["no"]}
+{"question": "Can patient coaching reduce racial/ethnic disparities in cancer pain control?", "answer": ["yes"]}
+{"question": "Does prior benign prostate biopsy predict outcome for patients treated with radical perineal prostatectomy?", "answer": ["yes"]}
+{"question": "Does patient position during liver surgery influence the risk of venous air embolism?", "answer": ["no"]}
+{"question": "Do Indigenous Australians age prematurely?", "answer": ["no"]}
+{"question": "Are tuberculosis patients adherent to prescribed treatments in China?", "answer": ["maybe"]}
+{"question": "Ultrasound in squamous cell carcinoma of the penis; a useful addition to clinical staging?", "answer": ["yes"]}
+{"question": "Do oblique views add value in the diagnosis of spondylolysis in adolescents?", "answer": ["no"]}
+{"question": "Are many colorectal cancers due to missed adenomas?", "answer": ["no"]}
+{"question": "Does desflurane alter left ventricular function when used to control surgical stimulation during aortic surgery?", "answer": ["no"]}
+{"question": "Does gestational age misclassification explain the difference in birthweights for Australian aborigines and whites?", "answer": ["no"]}
+{"question": "Is peak concentration needed in therapeutic drug monitoring of vancomycin?", "answer": ["no"]}
+{"question": "Can autologous platelet-rich plasma gel enhance healing after surgical extraction of mandibular third molars?", "answer": ["yes"]}
+{"question": "Are sugars-free medicines more erosive than sugars-containing medicines?", "answer": ["no"]}
