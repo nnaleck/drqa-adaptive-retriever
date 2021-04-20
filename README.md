@@ -13,12 +13,13 @@ This is an implementation of [Adaptive Document Retrieval for Deep Question Answ
 - Initialize the retriever pipeline by running `python scripts/retriever/pipeline.py --model /path/to/tfidf`. 
 - Ask any question with `k=25` and the script will give different number of top documents according to your query :
 ```
->>> process('Is breast cancer dangerous ?', k=25)
+>>> process('Does the clinical presentation of a prior preterm birth predict risk in a subsequent pregnancy?', k=25)
 +------+----------+-----------+
 | Rank |  Doc Id  | Doc Score |
 +------+----------+-----------+
-|  1   | 15050326 |  0.060087 |
-|  2   | 17598882 |  0.056639 |
-|  3   | 14692023 |  0.050878 |
+|  1   | 26215326 |  0.30948  |
+|  2   | 16428354 |  0.054712 |
+|  3   | 12913347 |  0.054669 |
+|  4   | 16241924 |  0.049194 |
 +------+----------+-----------+
 ```
