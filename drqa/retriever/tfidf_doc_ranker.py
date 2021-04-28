@@ -34,8 +34,9 @@ class TfidfDocRanker(object):
         """
         # Load from disk
         if adaptive_model_path:
-            model_path = adaptive_model_path
-            self.model = pickle.load(open(model_path, 'rb'))
+            self.model = pickle.load(open(adaptive_model_path, 'rb'))
+        else:
+            self.model = None
 
         tfidf_path = tfidf_path or DEFAULTS['tfidf_path']
         logger.info('Loading %s' % tfidf_path)
