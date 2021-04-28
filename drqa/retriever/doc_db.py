@@ -44,7 +44,6 @@ class DocDB(object):
         return results
 
     def get_doc_text(self, doc_id):
-        print(doc_id)
         """Fetch the raw text of the doc for 'doc_id'."""
         cursor = self.connection.cursor()
         cursor.execute(

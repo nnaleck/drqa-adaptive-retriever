@@ -152,10 +152,7 @@ if __name__ == '__main__':
     get_score_partial = partial(get_score, match=args.match)
     scores = processes.map(get_score_partial, answers_docs)
 
-    training_file = args.out_training
-
-    with open(training_file, "w") as f:
+    with open(args.out_training, "w") as f:
         for pos, score in scores:
-            print(pos, score)
             f.write('{},{}\n'.format(pos, np.array2string(score, separator=',',  max_line_width=999999)[1:-1]))
 
