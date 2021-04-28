@@ -72,15 +72,18 @@ class TfidfDocRanker(object):
 
         doc_scores = res.data[o_sort]
         doc_scores = doc_scores/np.sum(doc_scores)
-        x = np.zeros([1,25])
-        x[0,0:len(doc_scores)]=doc_scores
-
-        b = 1
-        y = self.model.predict(x)[0].astype(np.int32) + b
-
         doc_ids = [self.get_doc_id(i) for i in res.indices[o_sort]]
 
-        return doc_ids[0:y], doc_scores[0:y]
+        if self.model:
+            x = np.zeros([1, k])
+            x[0, 0:len(doc_scores)] = doc_scores
+
+            b = 1
+            y = self.model.predict(x)[0].astype(np.int32) + b
+
+            return doc_ids[0:y], doc_scores[0:y]
+        else:
+            return doc_scores, doc_ids
 
     def batch_closest_docs(self, queries, k=1, num_workers=None):
         """Process a batch of closest_docs requests multithreaded.
