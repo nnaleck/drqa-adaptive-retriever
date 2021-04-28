@@ -33,8 +33,9 @@ class TfidfDocRanker(object):
             strict: fail on empty queries or continue (and return empty result)
         """
         # Load from disk
-        model_path = adaptive_model_path or 'adaptive_model.sav'
-        self.model = pickle.load(open(model_path, 'rb'))
+        if adaptive_model_path:
+            model_path = adaptive_model_path
+            self.model = pickle.load(open(model_path, 'rb'))
 
         tfidf_path = tfidf_path or DEFAULTS['tfidf_path']
         logger.info('Loading %s' % tfidf_path)
