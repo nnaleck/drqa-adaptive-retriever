@@ -2,9 +2,15 @@ import pandas as pd
 import numpy as np
 import mord
 import pickle
+import argparse
 from sklearn.model_selection import train_test_split
 
-df = pd.read_csv('training_adaptive.csv', header=None)
+parser = argparse.ArgumentParser()
+parser.add_argument('--training-csv', type=str, default=None)
+parser.add_argument('--out-model', type=str, default=None)
+args = parser.parse_args()
+
+df = pd.read_csv(args.training_csv, header=None)
 
 # Getting features and labels
 y = df[0].values
@@ -24,5 +30,5 @@ y_pred = reg.predict(X_test)
 b = 1
 print(np.bincount(y_pred.astype(np.int32)+b))
 
-filename = 'adaptive_model.sav'
+filename = args.out_model
 pickle.dump(reg, open(filename, 'wb'))

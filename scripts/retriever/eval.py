@@ -102,6 +102,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser()
     parser.add_argument('dataset', type=str, default=None)
     parser.add_argument('--model', type=str, default=None)
+    parser.add_argument('--out-training', type=str, default=None)
     parser.add_argument('--doc-db', type=str, default=None,
                         help='Path to Document DB')
     parser.add_argument('--tokenizer', type=str, default='regexp')
@@ -151,7 +152,7 @@ if __name__ == '__main__':
     get_score_partial = partial(get_score, match=args.match)
     scores = processes.map(get_score_partial, answers_docs)
 
-    training_file = 'training_adaptive.csv'
+    training_file = args.out_training
 
     with open(training_file, "w") as f:
         for pos, score in scores:

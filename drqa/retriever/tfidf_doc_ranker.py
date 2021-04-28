@@ -26,14 +26,16 @@ class TfidfDocRanker(object):
     Scores new queries by taking sparse dot products.
     """
 
-    def __init__(self, tfidf_path=None, strict=True):
+    def __init__(self, tfidf_path=None, strict=True, adaptive_model_path=None):
         """
         Args:
             tfidf_path: path to saved model file
             strict: fail on empty queries or continue (and return empty result)
         """
         # Load from disk
-        self.model = pickle.load(open('adaptative_model.sav', 'rb')) 
+        model_path = adaptive_model_path or 'adaptive_model.sav'
+        self.model = pickle.load(open(model_path, 'rb'))
+
         tfidf_path = tfidf_path or DEFAULTS['tfidf_path']
         logger.info('Loading %s' % tfidf_path)
         matrix, metadata = utils.load_sparse_csr(tfidf_path)
