@@ -156,5 +156,6 @@ if __name__ == '__main__':
 
     with open(training_file, "w") as f:
         for pos, score in scores:
+            print(pos, score)
             f.write('{},{}\n'.format(pos, np.array2string(score, separator=',',  max_line_width=999999)[1:-1]))
 
