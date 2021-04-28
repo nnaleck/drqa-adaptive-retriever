@@ -150,6 +150,7 @@ if __name__ == '__main__':
     # compute the scores for each pair, and print the statistics
     logger.info('Retrieving and computing scores...')
     get_score_partial = partial(get_score, match=args.match)
+    print(get_score_partial)
     scores = processes.map(get_score_partial, answers_docs)
 
     with open(args.out_training, "w") as f:
